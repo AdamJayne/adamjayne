@@ -1,5 +1,7 @@
 ### Salve, [object Object] of the Earth 👋
 
+I am currently learning more about Infrastructure As Code, while honing my front-end dev skills.
+Drop me a line at me@adamjayne.dev
 
 <!--
 **AdamJayne/adamjayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
