@@ -1,4 +1,4 @@
-### Salve, [object Object] of the Earth 👋
+### Hello, [object Object] of planet Earth 👋
 
 I am currently learning more about Infrastructure As Code, while honing my front-end dev skills.
 
