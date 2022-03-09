@@ -4,7 +4,7 @@ I am currently learning more about Infrastructure As Code, while honing my front
 
 Drop me a line at me@adamjayne.dev
 
-Check out my [resume](https://resume.adamljayne.com): Deployed with Infrastructure as code on AWS [Link to repository](https://github.com/AdamJayne/cloud-resume-cdk)
+Check out my [resume](https://resume.adamljayne.com), deployed with Infrastructure as code on AWS: [Link to repository](https://github.com/AdamJayne/cloud-resume-cdk)
 
 <!--
 **AdamJayne/adamjayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
