@@ -1,6 +1,6 @@
 ### Hello, [object Object] of planet Earth 👋
 
-I am currently learning more about Infrastructure As Code, while honing my front-end dev skills.
+I am a DevSecOps engineer with full stack web development experience.
 
 Drop me a line at me@adamjayne.dev
 
